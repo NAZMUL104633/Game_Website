@@ -1,0 +1,265 @@
+@media(min-width:1400px){
+    
+}
+@media(max-width:1199px){
+    .banner_info H1 {
+        font-size: 100px;
+    }
+    .nav-link {
+        font-size: 15px;
+        padding: 5px 8px !important;
+    }
+    .sing_btn {
+        font-size: 15px !important;
+    }
+    .game_btn {
+        padding: 16px 20px;
+    }
+    .about_main_img {
+        height: 100%;
+    }
+    .about_main_img img {
+        height: 100%;
+    }
+    .about_main_img img {
+    height: 100%;
+    }
+    .team_item::after {
+        clip-path: polygon(45% 45%, 100% 15%, 100% 36%, 49% 55%, 0 36%, 0 15%);
+    }
+    .link_item ul li {
+        margin-right: 3px;
+    }
+    .link_info p {
+        font-size: 16px;
+    }
+    .contuct_content p {
+        font-size: 12px !important;
+    }
+    .team_img {
+        margin-top: 40px;
+    }
+    .features_content h3 {
+        font-size: 19px;
+    }
+    .f_client_info h4 {
+        font-size: 18px;
+    }
+    .f_client_info img {
+        width: 40px;
+        height: 40px;
+    }
+    .bid_info {
+        padding: 5px;
+    }
+}
+@media(max-width:991px){
+    .banner_info H1 {
+        font-size: 66px;
+    }
+    .feature_hidden{
+        display: inherit;
+        display: flex;
+    }
+    .media_css_hidden{
+        display: none;
+    }
+    .features_media{
+        margin-bottom: 20px;
+    }
+    .service_info h5 {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+    .service_info h1 {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .service_icon i {
+        font-size: 24px;
+    }
+    .service_icon {
+        margin-bottom: 8px;
+    }
+    .service_content h4 {
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+    .service_content p {
+        font-size: 13px;
+    }
+    .service_section {
+        padding: 50px 0;
+    }
+    .arrwo_key {
+        width: 100px;
+        height: 100px;
+    }
+    .arrwo_key i {
+        font-size: 50px;
+    }
+    .service_img img {
+        height: 100%;
+    }
+    .service_img {
+        height: 100%;
+    }
+    .about_section {
+        padding: 50px 0;
+    }
+}
+
+@media(max-width:767px){
+    .nav-link{
+        display: inline;
+    }
+    .nav-item {
+        text-align: center;
+        margin-top: 7px;
+    }
+    .banner_info {
+        text-align: center;
+    }
+    .banner_info H1 {
+       font-size: 110px;
+    }
+    .service_info {
+        text-align: center;
+    }
+    .features_second {
+        margin-top: 0;
+    }
+    .features_item {
+        margin-top: 20px;
+    }
+    .about_info h1 {
+        font-size: 44px;
+    }
+    .game_title {
+        text-align: center;
+        margin-bottom: 10px;
+        margin-top: 25px;
+    }
+    .about_main_img {
+        text-align: center;
+    }
+    .game_btn {
+        margin-top: 3px;
+        margin-bottom: 9px;
+    }
+    .team_item {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .seasons_item h1 {
+        font-size: 45px;
+    }
+    .seasons_item {
+        text-align: center;
+    }
+    .seasons_info {
+        margin-left: 30px;
+        width: 90%;
+    }
+    .top_item{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .contuct_us_info {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .f_logo img {
+        width: 50%;
+    }
+    .service_content {
+        width: 50%;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .team_img {
+        padding: 30px 0;
+    }
+}
+
+@media(max-width:575px){
+    .nav-link{
+        display: inline;
+    }
+    
+    .service_content {
+        width: 50%;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .extra_img{
+        display: none;
+    }
+    .hidden_img{
+        display: inherit;
+    }
+    .nav-item {
+        text-align: center;
+        margin-top: 7px;
+    }
+    .banner_info {
+        text-align: center;
+    }
+    .banner_info H1 {
+       font-size: 110px;
+    }
+    .service_info {
+        text-align: center;
+    }
+    .features_second {
+        margin-top: 0;
+    }
+    .features_item {
+        margin-top: 20px;
+    }
+    .about_info h1 {
+        font-size: 44px;
+    }
+    .game_title {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .about_main_img {
+        text-align: center;
+    }
+    .game_btn {
+        margin-top: 3px;
+        margin-bottom: 9px;
+    }
+    .team_item {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .seasons_item h1 {
+        font-size: 45px;
+    }
+    .seasons_item {
+        text-align: center;
+    }
+    .seasons_info {
+        margin-left: 30px;
+        width: 90%;
+    }
+    .top_item{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .contuct_us_info {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .f_logo img {
+        width: 50%;
+    }
+}
